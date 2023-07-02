@@ -9,9 +9,30 @@ We utilize various models including Logistic Regression, Random Forest Classifie
 The conclusion of our analysis emphasizes the importance of specificity in loan approval decisions. By accurately identifying negative instances and minimizing false positives, our model ensures a robust risk management framework, protecting the organization from potential financial losses and safeguarding its reputation.
 
 
+# Dataset Attribute Information:
+
+The dataset contains the following attributes:
+
+loan_id: Unique identifier for each loan application.
+gender: Gender of the loan applicant.
+married: Marital status of the loan applicant.
+roi: Rate of interest for the loan.
+dependents: Number of dependents of the loan applicant.
+education: Educational background of the loan applicant.
+self_employed: Indicates if the loan applicant is self-employed.
+applicantincome: Income of the loan applicant.
+coapplicantincome: Income of the co-applicant (if applicable).
+loanamount: Amount of the loan requested.
+loan_amount_term: Term or duration of the loan.
+credit_history: Credit history of the loan applicant.
+property_area: Location or area of the property.
+loan_status: Status of the loan application (approved or rejected).
+
+
 **Implementation in Real Life**:
 
-The developed machine learning model can be implemented in real-life loan approval processes within financial institutions or lending organizations. By incorporating innovative features and leveraging advanced techniques, the model can provide more accurate and efficient loan approval decisions.
+The developed machine learning model can be implemented in real-life loan approval processes within financial institutions or lending organizations. By incorporating innovative features and 
+leveraging advanced techniques, the model can provide more accurate and efficient loan approval decisions.
 
 The model's ability to accurately predict loan approvals while minimizing false positives helps mitigate credit risks and reduces the chances of granting loans to unqualified individuals. This improves the overall efficiency and effectiveness of the loan approval process, allowing organizations to make better-informed decisions and allocate their resources more effectively.
 
