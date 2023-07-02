@@ -1,6 +1,6 @@
 # Enhancing-Loan-Approval-with-Advanced-ML-Models-and-Innovative-Features
 
-**Abstract**:
+# Abstract:
 
 In this project, our objective is to develop an advanced machine learning model that accurately predicts loan approval decisions by incorporating innovative features and leveraging state-of-the-art techniques. By enhancing the loan approval process, we aim to improve efficiency, accuracy, and risk management while reducing the chances of default.
 
@@ -29,7 +29,7 @@ property_area: Location or area of the property.
 loan_status: Status of the loan application (approved or rejected).
 
 
-**Implementation in Real Life**:
+# Real-life Implementation:
 
 The developed machine learning model can be implemented in real-life loan approval processes within financial institutions or lending organizations. By incorporating innovative features and 
 leveraging advanced techniques, the model can provide more accurate and efficient loan approval decisions.
